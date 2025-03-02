@@ -1,0 +1,5 @@
+environment = "staging"
+
+[logger]
+level = "info"
+format = "json"

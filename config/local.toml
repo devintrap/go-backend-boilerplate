@@ -1,0 +1,5 @@
+environment = "local"
+
+[logger]
+level = "debug"
+format = "console"
